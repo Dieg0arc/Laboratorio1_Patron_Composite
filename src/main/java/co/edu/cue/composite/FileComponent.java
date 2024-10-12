@@ -1,2 +1,6 @@
-package co.edu.cue.composite;public class FileComponent {
+package co.edu.cue.composite;
+
+// componentes
+interface FileComponent {
+    void showDetails();
 }
